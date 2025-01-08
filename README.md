@@ -40,6 +40,7 @@
 </body>
 
 </html>
+
 const allimg = document.querySelectorAll('.imagecontainer img');
 
 let userScore = 0;
